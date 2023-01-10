@@ -1,0 +1,9 @@
+services:
+  package-a:
+    build:
+      context: ./package_a
+      dockerfile: ./Dockerfile
+  package-b:
+    build:
+      context: ./package_b
+      dockerfile: ./Dockerfile

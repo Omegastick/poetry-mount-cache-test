@@ -1,0 +1,6 @@
+requests
+websockets
+sanic
+antigravity
+fuzzywuzzy
+nvidia-cuda-runtime-cu11
